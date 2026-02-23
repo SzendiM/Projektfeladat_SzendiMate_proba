@@ -1,4 +1,4 @@
 *.pdf
 *.jpg
-*.gitattributes
-*.gitignore
+.gitattributes
+.gitignore
